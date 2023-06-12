@@ -82,7 +82,7 @@
 
 	<div class="navigation-bar">
     	<nav>
-      		<h1>Wiki Application</h1>
+      		<h1>Wiki Application - Category </h1>
 
 			<!-- Navigation Menu -->
 		    <ul>
