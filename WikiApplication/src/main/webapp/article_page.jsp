@@ -136,6 +136,7 @@
 	    </script>
 	
 		<!-- List all Articles -->
+		<h1>This is a new heading</h1>
 		<c:forEach var="articles" items="${listALLArticles}"> 
 			<div class="article-container">
 				<div class="article-box">
