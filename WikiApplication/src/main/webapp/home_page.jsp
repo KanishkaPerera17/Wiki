@@ -5,7 +5,7 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title>Wiki - Home Page</title>
+		<title>Wiki</title>
 		<style>
 			nav {
 			  width: 1200px;
